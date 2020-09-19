@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqTkFke07t79dtSUmXdo/ePpEqL1da/eQ2A4U/GoLiRZUOSnmJbyxyCgus3mmbohfcg7F1zxCvxIywJmTvGjDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yusuf\\source\\repos\\BasicMediatRExample\\BasicMediatRExample.Core\\BasicMediatRExample.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yusuf\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

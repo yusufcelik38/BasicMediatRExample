@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Core.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Entities.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Business.deps.json
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Business.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Business.pdb
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Core.pdb
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\bin\Debug\netcoreapp3.1\BasicMediatRExample.Entities.pdb
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.csproj.CopyComplete
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Business\obj\Debug\netcoreapp3.1\BasicMediatRExample.Business.pdb

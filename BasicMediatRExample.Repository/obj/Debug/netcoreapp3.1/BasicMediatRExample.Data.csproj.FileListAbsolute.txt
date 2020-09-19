@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Data.deps.json
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Data.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Data.pdb
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Core.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Entities.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Core.pdb
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\bin\Debug\netcoreapp3.1\BasicMediatRExample.Entities.pdb
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.csproj.CopyComplete
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.dll
+C:\Users\yusuf\source\repos\BasicMediatRExample\BasicMediatRExample.Repository\obj\Debug\netcoreapp3.1\BasicMediatRExample.Data.pdb
